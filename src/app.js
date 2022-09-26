@@ -23,6 +23,9 @@ app.set('views', './src/views'); // Seteo de la ubicación de la carpeta "views"
 
 // ************ WRITE YOUR CODE FROM HERE ************
 // ************ Route System require and use() ************
+const logMiddleware = require('./middlewares/userLogs');
+app.use(logMiddleware);
+
 const mainRouter = require('./routes/main');
 app.use('/', mainRouter);
 

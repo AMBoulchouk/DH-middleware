@@ -1,0 +1,5 @@
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /milanesa
+El usuario ingresó a la ruta: /milanesa
+El usuario ingresó a la ruta: /milanesa/jladfhjadjkladf
+El usuario ingresó a la ruta: /milanesa
